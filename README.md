@@ -25,7 +25,7 @@ The dataset features the Top 100 Movies from IMDb, with the following columns:
 ## 🌐 Live Demo
 
 The portfolio website with the embedded dataset is available here:
-➡️ [GitHub Pages Link](https://your-username.github.io/statistics-portfolio/)
+➡️ [GitHub Pages Link](https://ayushisaini4.github.io/Student-Portfolio-Statistics-2-IIT-Madras/)
 
 ## 📁 Contents
 
